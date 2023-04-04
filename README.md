@@ -7,4 +7,4 @@
 
 ## Полезные ссылки
 - [Скачать Anylogic для 3-4 работ](https://www.anylogic.ru/)
-- [Anylogic за 3 дня (Методичка)](https://cstor.nn2.ru/userfiles/data/ufiles/2019-09/73/8f/1a/5d7269f3bfa15_anylogicinthreedays28rus29.pdf)
+- [Anylogic за 3 дня (Методичка)](https://github.com/Nafanya1337/Modeling_of_software_systems/blob/f3a9a95647b103cbe15a6beb5c125591d7009855/anylogic_in_three_days_28rus_29.pdf)
